@@ -1,0 +1,68 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (obj\Win32\Debug\) contains files shared from another project (CS 134 - Project 2 - Dynamic Pursuit.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  ofApp.cpp
+  Emitter.cpp
+  Particle.cpp
+  ParticleEmitter.cpp
+  ParticleSystem.cpp
+  Sprite.cpp
+  TransformObject.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(141,8): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(184,21): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(371,21): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(457,22): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\Emitter.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\Emitter.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\Emitter.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ParticleSystem.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(549,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\src\ofApp.cpp(604,20): warning C4018: '<': signed/unsigned mismatch
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(265): message : while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(368): message : see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(805): message : see reference to class template instantiation 'ofxInputField<float>' being compiled
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+     Creating library bin\Slice Surfer_debug.lib and object bin\Slice Surfer_debug.exp
+  Slice Surfer.vcxproj -> D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\bin\Slice Surfer_debug.exe
+  
+  	                   2	D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\bin\fmod.dll
+  	  *EXTRA File 		 1733120	D:\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\Slice Surfer\bin\fmodL.dll
